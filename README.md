@@ -14,7 +14,7 @@ Installing a specific version:
 
 Uninstalling a plugin
 
-`$ jfrog plugin uninstall hvault-frog`
+`$ jfrog plugin uninstall vault-frog`
 
 ## Usage
 ### Commands
